@@ -6,7 +6,8 @@ A comprehensive data visualization project analyzing global e-commerce sales, pr
 
 ## 📊 Tableau Dashboard Output
 
-
+![Dashboard](https://github.com/datta116/E-Commerce-Sales-Dashbaord/blob/bb06e3fdfd9ddf3daf63239f8496b1ac6d3d3dfb/Screenshot%202025-12-18%20113120.png)
+![Dashboard](https://github.com/datta116/E-Commerce-Sales-Dashbaord/blob/bb06e3fdfd9ddf3daf63239f8496b1ac6d3d3dfb/Dashboard.gif)
 
 
 
