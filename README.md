@@ -5,9 +5,9 @@ A comprehensive data visualization project analyzing global e-commerce sales, pr
 ---
 
 ## 📊 Tableau Dashboard Output
-*Click the image below to view the interactive dashboard.*
 
-[![Tableau Dashboard Preview](Screenshot 2025-12-18 113120.png)](https://public.tableau.com/views/YOUR_LINK_HERE)
+
+
 
 
 ---
